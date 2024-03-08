@@ -7,6 +7,8 @@ public class reversedemo {
        String s = "madam";
        String t= "";
        
+      System.out.println("The length of the string is :" + s.length());
+       
        for(int i =s.length()-1;i>=0;i--) {
     	   t= t+ s.charAt(i);
     	                                   //t(1st it=m because s.charAt(i)=m)
@@ -27,5 +29,7 @@ public class reversedemo {
     	   System.out.println("Strings are not matching");
        }
        
+	}
 }
-}
+	
+	
