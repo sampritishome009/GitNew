@@ -12,6 +12,11 @@ public class Practise1 {
 		System.out.println("Post Jira 2");
 		
 		System.out.println("Post Jira 3");
-	}
+		
+		System.out.println("N validation 1");
+		System.out.println("N validation 2");
+		System.out.println("N validation 3");
+		
+       
 
 }
